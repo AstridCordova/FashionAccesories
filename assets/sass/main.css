@@ -1,0 +1,88 @@
+body {
+  font-family: 'Raleway', sans-serif; }
+
+.pink {
+  color: #FF7572; }
+
+footer {
+  background: #F1F1F1;
+  color: #444444;
+  padding: 3%; }
+  footer h4 {
+    font-weight: 600; }
+  footer a {
+    padding: 2% 6%;
+    background: white;
+    color: #444444;
+    margin-right: 10px; }
+    footer a:hover {
+      text-decoration: none;
+      background: #444444;
+      color: white; }
+  footer .fa {
+    font-size: 17px; }
+  footer i {
+    padding-right: 5%; }
+  footer .circle {
+    padding: 4%;
+    background: white;
+    border-radius: 100%;
+    margin-right: 2%; }
+
+.cards {
+  background: #444444;
+  color: #F1F1F1;
+  padding: 1%; }
+  .cards span {
+    margin: 0% 0.3%; }
+
+.fa-stack {
+  height: 40px;
+  width: 40px; }
+
+.navbar-default {
+  background: #F1F1F1;
+  border: none; }
+  .navbar-default .navbar-brand {
+    font-size: 15px; }
+  .navbar-default img {
+    margin-right: 5px; }
+
+.search {
+  padding: 1.5%; }
+  .search input {
+    position: relative;
+    width: 80%;
+    padding: 2%;
+    border: 1px solid #f1f1f1;
+    margin-top: 5%; }
+  .search i {
+    color: #f1f1f1;
+    position: absolute;
+    top: 55%;
+    right: 17%; }
+
+.head {
+  background: #F1F1F1; }
+  .head li a {
+    color: #444444;
+    font-weight: bold;
+    font-size: 18px; }
+    .head li a:hover {
+      background: #FF7572; }
+  .head .shopping {
+    background: #444444;
+    color: #F1F1F1;
+    text-align: center;
+    padding: 0% 1%; }
+    .head .shopping p {
+      margin-bottom: 5px; }
+
+.banner {
+  background: url(../../assets/images/slider1.jpg);
+  background-size: cover;
+  padding: 13%;
+  color: #F1F1F1;
+  font-size: 30px; }
+
+/*# sourceMappingURL=main.css.map */
